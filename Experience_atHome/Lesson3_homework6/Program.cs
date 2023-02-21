@@ -8,22 +8,21 @@
 
  
  Console.WriteLine("Введите пятизначное число: ");
- string input=Console.ReadLine();
- int value = Convert.ToInt32(input);
- int a,b,c,d,e;
+  int value = Convert.ToInt32(Console.ReadLine());
+ int a,b,c,d;
  int result;
 
  result = (value/10000);
  a=result;
  result = value%10;
- e=result;
- if (a==e)
+ d=result;
+ if (a==d)
  {
     result=(value%10000)/1000;
     b=result;
     result=(value%100)/10;
-    d=result;
-    if (d==b)
+    c=result;
+    if (c==b)
     {
         Console.WriteLine("Данное число-Полиндром");
     }

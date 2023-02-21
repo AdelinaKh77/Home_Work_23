@@ -5,8 +5,7 @@
 
 
 Console.WriteLine("Введите любое целое число");
-string input = Console.ReadLine();
-int N = Convert.ToInt32(input);
+ int N = Convert.ToInt32(Console.ReadLine());
 
 int a = 1;
 int result;
