@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Homeworks\\Experience_atHome\\Lesson1_homework4\\Lesson1_homework4.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Homeworks\\Experience_atHome\\Lesson7_homework17\\Lesson7_homework17.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Homeworks\\Experience_atHome\\Lesson1_homework4\\Lesson1_homework4.csproj": {
+    "C:\\Users\\HP\\Desktop\\Homeworks\\Experience_atHome\\Lesson7_homework17\\Lesson7_homework17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Homeworks\\Experience_atHome\\Lesson1_homework4\\Lesson1_homework4.csproj",
-        "projectName": "Lesson1_homework4",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Homeworks\\Experience_atHome\\Lesson1_homework4\\Lesson1_homework4.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Homeworks\\Experience_atHome\\Lesson7_homework17\\Lesson7_homework17.csproj",
+        "projectName": "Lesson7_homework17",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Homeworks\\Experience_atHome\\Lesson7_homework17\\Lesson7_homework17.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Homeworks\\Experience_atHome\\Lesson1_homework4\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Homeworks\\Experience_atHome\\Lesson7_homework17\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
