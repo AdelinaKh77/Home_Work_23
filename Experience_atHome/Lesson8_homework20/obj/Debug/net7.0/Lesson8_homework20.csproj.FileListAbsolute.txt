@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\bin\Debug\net7.0\Lesson8_homework20.exe
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\bin\Debug\net7.0\Lesson8_homework20.deps.json
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\bin\Debug\net7.0\Lesson8_homework20.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\bin\Debug\net7.0\Lesson8_homework20.dll
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\bin\Debug\net7.0\Lesson8_homework20.pdb
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\obj\Debug\net7.0\Lesson8_homework20.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\obj\Debug\net7.0\Lesson8_homework20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\obj\Debug\net7.0\Lesson8_homework20.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\obj\Debug\net7.0\Lesson8_homework20.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\obj\Debug\net7.0\Lesson8_homework20.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\obj\Debug\net7.0\Lesson8_homework20.dll
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\obj\Debug\net7.0\refint\Lesson8_homework20.dll
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\obj\Debug\net7.0\Lesson8_homework20.pdb
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\obj\Debug\net7.0\Lesson8_homework20.genruntimeconfig.cache
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson8_homework20\obj\Debug\net7.0\ref\Lesson8_homework20.dll
