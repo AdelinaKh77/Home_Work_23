@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\bin\Debug\net7.0\Lesson9_homework22.exe
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\bin\Debug\net7.0\Lesson9_homework22.deps.json
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\bin\Debug\net7.0\Lesson9_homework22.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\bin\Debug\net7.0\Lesson9_homework22.dll
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\bin\Debug\net7.0\Lesson9_homework22.pdb
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\obj\Debug\net7.0\Lesson9_homework22.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\obj\Debug\net7.0\Lesson9_homework22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\obj\Debug\net7.0\Lesson9_homework22.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\obj\Debug\net7.0\Lesson9_homework22.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\obj\Debug\net7.0\Lesson9_homework22.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\obj\Debug\net7.0\Lesson9_homework22.dll
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\obj\Debug\net7.0\refint\Lesson9_homework22.dll
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\obj\Debug\net7.0\Lesson9_homework22.pdb
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\obj\Debug\net7.0\Lesson9_homework22.genruntimeconfig.cache
+C:\Users\HP\Desktop\Homeworks\Experience_atHome\Lesson9_homework22\obj\Debug\net7.0\ref\Lesson9_homework22.dll
